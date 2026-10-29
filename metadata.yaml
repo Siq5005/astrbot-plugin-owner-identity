@@ -1,0 +1,5 @@
+name: owner_identity
+desc: 把当前对话者的昵称/QQ/身份注入 system prompt，让机器人只对指定的人用亲昵语气；可选群聊静音、去 emoji、R1 思考过滤
+author: youyou
+version: 2.0.0
+repo: https://github.com/Siq5005/astrbot-plugin-owner-identity

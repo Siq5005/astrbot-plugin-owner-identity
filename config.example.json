@@ -1,0 +1,11 @@
+{
+  "owner_qq": ["10001"],
+  "owner_extra": "这个人是主人：可以撒娇、黏人、问吃饭睡觉，被凶会委屈。",
+  "other_extra": "这个人不是主人：温和有礼、保持距离，不撒娇、不黏人、不问私事。",
+  "mask_owner_in_name": true,
+  "mute_file": "",
+  "strip_emoji": false,
+  "r1_contract": false,
+  "r1_provider_marker": "R1",
+  "log_detection": true
+}
